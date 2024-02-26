@@ -6,3 +6,9 @@ The Tower of Hanoi is a classic mathematical puzzle that involves three rods and
 3. No disk may be placed on top of a smaller disk.
 
 Despite its simple rules, the Tower of Hanoi puzzle is known for its mathematical properties and has intrigued mathematicians and computer scientists for centuries. It's often used as an introductory example in programming and algorithm courses to teach concepts like recursion and problem-solving strategies. Additionally, it serves as a fun and engaging brain teaser for enthusiasts of all ages.
+
+# Code Description
+### This Game is Built Using Stack
+
+This code starts with asking number of disks you want in game then it will display three poles with selected number of disks. Then, it will ask you number of pole from which you want to pop and push the disk.
+In the end, when all the disks have been moved to last pole, it shows total number of moves.
