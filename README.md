@@ -12,3 +12,6 @@ Despite its simple rules, the Tower of Hanoi puzzle is known for its mathematica
 
 This code starts with asking number of disks you want in game then it will display three poles with selected number of disks. Then, it will ask you number of pole from which you want to pop and push the disk.
 In the end, when all the disks have been moved to last pole, it shows total number of moves.
+
+![Start Game.png](Start Game.png)
+![End Game.png](End Game.png)
