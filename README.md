@@ -14,4 +14,4 @@ This code starts with asking number of disks you want in game then it will displ
 In the end, when all the disks have been moved to last pole, it shows total number of moves.
 
 ![Start Game.png](Start Game.png)
-![End Game.png](End Game.png)
+
